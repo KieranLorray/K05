@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  gap: 20px;
+  background-color: #f8f9fa;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #343a40;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  color: #343a40;
+  cursor: pointer;
+}
+
+button:hover {
+  text-decoration: underline;
+}
